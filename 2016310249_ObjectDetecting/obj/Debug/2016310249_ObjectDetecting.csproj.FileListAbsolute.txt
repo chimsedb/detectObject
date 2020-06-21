@@ -1,0 +1,26 @@
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\obj\Debug\2016310249_ObjectDetecting.csprojAssemblyReference.cache
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\obj\Debug\_2016310249_ObjectDetecting.Form1.resources
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\obj\Debug\_2016310249_ObjectDetecting.Properties.Resources.resources
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\obj\Debug\2016310249_ObjectDetecting.csproj.GenerateResource.cache
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\obj\Debug\2016310249_ObjectDetecting.csproj.CoreCompileInputs.cache
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\2016310249_ObjectDetecting.exe.config
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\2016310249_ObjectDetecting.exe
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\2016310249_ObjectDetecting.pdb
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Controls.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Genetic.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Imaging.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.MachineLearning.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Math.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Video.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Video.VFW.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\bin\Debug\AForge.Vision.dll
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\obj\Debug\2016310249_ObjectDetecting.csproj.CopyComplete
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\obj\Debug\2016310249_ObjectDetecting.exe
+C:\Users\dota2\OneDrive\Desktop\camera\CSharp-image-AForge\2016310249_ObjectDetecting\obj\Debug\2016310249_ObjectDetecting.pdb
